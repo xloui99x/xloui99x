@@ -1,14 +1,16 @@
 ### Hi, I'm Louis 👋
 
-I build digital products where technology meets the people who use it: from
-the first conversation with users to something running in production.
+I turn business and user needs into clear requirements and working digital products:
+from stakeholder interviews and process analysis to something running in production.
 
-- 🎬 **Product owner at Swiss TXT (SRG SSR)**: AI-driven accessibility, including a
-  sign language avatar now on air on RTS, and 5G media research in
-  Innosuisse / Horizon Europe projects
+- 🎬 **Product manager at Swiss TXT (SRG SSR)**: AI-driven accessibility, including a
+  sign language avatar for the RTS weather forecast (user study ahead of the live
+  launch), and international research projects for ESA, Innosuisse and Horizon Europe
+- 📋 **Business analysis**: requirements engineering, user stories and backlog,
+  BPMN process models, stakeholder workshops between users, engineers and operations
 - 🛠️ **Founder of [A Match](https://amatch.ch)**: recruiting for Swiss trade
   businesses; I built the website and its job-ad analysis service
-- 🎓 **MSc Business Information Systems** at FHNW, specialising in AI security
+- 🎓 **MSc Business Information Systems** at FHNW (AI security, business intelligence)
 - 🗣️ German · French · English
 
 #### Projects
@@ -21,6 +23,6 @@ the first conversation with users to something running in production.
 
 #### Toolbox
 
-`TypeScript` `React` `Python` `Flask` `HTML/CSS` `SVG` `Vite` `Vitest` `pytest` `GitHub Actions` `Azure` `Figma` `Jira` `Scrum`
+`Requirements Engineering` `BPMN` `Scrum` `Jira` `SQL` `Python` `Tableau` `Azure` `TypeScript` `React` `Flask` `pytest` `GitHub Actions` `Figma`
 
-📫 [louis.amara@amatch.ch](mailto:louis.amara@amatch.ch) · Bern, Switzerland
+🌐 [louisamara.ch](https://louisamara.ch) · 📫 [louis.amara@hotmail.com](mailto:louis.amara@hotmail.com) · Bern, Switzerland
